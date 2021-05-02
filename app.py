@@ -37,7 +37,7 @@ st.set_option('deprecation.showPyplotGlobalUse', False)
 def main():
     st.title("Machine Learning App for Classification")
     st.sidebar.title("Methods and Optimization")
-    st.markdown("Goal: Are hERG variants Pahtogenic or Benign?")
+    st.markdown("Goal: Are hERG variants Pathogenic or Benign?")
     #st.sidebar.markdown("Are your mushrooms edible or poisonous? 🍄")
 
     @st.cache(persist=True)
