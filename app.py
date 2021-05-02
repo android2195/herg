@@ -30,7 +30,7 @@ from six import StringIO
 #from sklearn.externals.six import StringIO from IPython.display import Image
 from IPython.display import Image
 from sklearn.tree import export_graphviz
-import pydotplus
+#import pydotplus
 
 st.set_option('deprecation.showPyplotGlobalUse', False)
 
