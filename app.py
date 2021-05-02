@@ -19,7 +19,7 @@ from sklearn.feature_selection import RFE, RFECV
 from sklearn.model_selection import train_test_split
 from sklearn.metrics import accuracy_score, precision_score, recall_score, confusion_matrix, classification_report
 from sklearn.metrics import plot_confusion_matrix, plot_roc_curve, plot_precision_recall_curve
-from mlxtend.data import iris_data
+#from mlxtend.data import iris_data
 from sklearn.utils import resample
 from sklearn.pipeline import Pipeline
 from sklearn.preprocessing import LabelEncoder
